@@ -1,0 +1,2 @@
+blog->views 
+using class view to update and delete post 
